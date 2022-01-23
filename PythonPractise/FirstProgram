@@ -1,5 +1,5 @@
 print ("Senthil Nathan")
-a = 11
+a = 2
 b = 21
 c = 30
 d = a+b
