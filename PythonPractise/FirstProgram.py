@@ -1,6 +1,6 @@
 print ("Senthil Nathan")
 a = 100
-b = 21
+b = 200
 c = 30
 d = a+b
 print("The value of d :" + str(d) )
